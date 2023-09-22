@@ -1,0 +1,122 @@
+.SUBSCRIBE-button {
+  background-color: rgb(189, 3, 3);
+  color: white;
+  border: none;
+  height: 36px;
+  width: 100px;
+  border-radius: 2px;
+  cursor: pointer;
+  margin-right: 8px;
+
+}
+
+.SUBSCRIBE-button:hover {
+
+  opacity: 0.8;
+}
+
+.SUBSCRIBE-button:active {
+
+  opacity: 0.4;
+}
+
+.join-button {
+  background-color: beige;
+  border-color: blue;
+  border-style: solid;
+  border-width: 1px;
+  color: blue;
+  height: 36px;
+  width: 62px;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+.tweet-button {
+  background-color: rgb(2, 121, 201);
+  color: white;
+  border: none;
+  height: 36px;
+  width: 70px;
+  border-radius: 20px;
+  font-size: 15px;
+  cursor: pointer;
+  margin-left: 8px;
+  transition: background-color 0.7s
+}
+
+.tweet-button:hover {
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.15);
+
+}
+
+.tweet-button:hover {
+
+  background-color: white;
+  color: rgb(4, 22, 34);
+  border: rgb(1, 8, 14);
+}
+
+.Uber-button {
+  background-color: black;
+  color: white;
+  height: 30px;
+  width: 100px;
+  border-radius: 1px;
+  border: none;
+  margin-left: 10px;
+}
+
+.Amazon-button {
+  background-color: rgb(255, 216, 20);
+  color: black;
+  height: 30px;
+  width: 120px;
+  border-radius: 20px;
+  border: none;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.send-button {
+  background-color: rgb(30, 141, 233);
+  color: white;
+  height: 36px;
+  width: 70px;
+  border-radius: 15px;
+  cursor: pointer;
+  margin-left: 40px;
+  border: none;
+}
+
+.Stretch-button {
+  background-color: aqua;
+  color: black;
+  height: 35px;
+  width: 100px;
+  cursor: pointer;
+  border-radius: 3px;
+  transition: 1s
+}
+
+.Stretch-button:hover {
+  height: 50px;
+  width: 135px;
+  transition: 1s;
+  background-color: black;
+  color: aqua;
+
+}
+
+.back-button {
+  color: black;
+  height: auto;
+  width: auto;
+}
+
+.next-button {
+  color: black;
+  height: auto;
+  width: auto;
+  margin-left: 5px;
+}

@@ -1,0 +1,46 @@
+.my-pic {
+  width: 300px;
+  display: block;
+}
+
+.name {
+  display: block;
+  font-family: Arial, Helvetica, sans-serif;
+  color: gray;
+  font-size: 15px;
+}
+
+.my-friends {
+  display: block;
+  font-family: Arial, Helvetica, sans-serif;
+  color: gray;
+  font-size: 10px;
+}
+
+.button {
+  background-color: rgb(1, 80, 80);
+  color: white;
+  font-size: 14px;
+  width: 100px;
+  height: 25px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+
+}
+
+.button:hover {
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.15);
+}
+
+.divv {
+  display: block;
+  border-style: solid;
+  border-radius: 3pxpx;
+  background-color: rgb(250, 250, 250);
+  border: none;
+  width: 300px;
+  height: 500px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.15);
+
+}
